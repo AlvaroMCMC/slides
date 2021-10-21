@@ -1,9 +1,9 @@
 ---
-title: "Presentation Ninja"
+title: "Carga y limpieza de datos"
 subtitle: "⚔<br/>with xaringan"
-author: "Yihui Xie"
-institute: "RStudio, PBC"
-date: "2016/12/12 (updated: `r Sys.Date()`)"
+author: "Alvaro Morales"
+institute: "INSIDEO"
+date: "`r Sys.Date()`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
